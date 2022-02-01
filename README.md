@@ -2,10 +2,6 @@
 Just a table of my stars. Famous repos excluded.
 
 ## programs
-* [hczhai/pyblock](https://github.com/hczhai/pyblock)
-* [block2-preview](https://github.com/block-hczhai/block2-preview)
-* [pyblock3-preview](https://github.com/block-hczhai/pyblock3-preview)
-* [quanp/OpenMolcas](https://github.com/quanp/OpenMolcas) A copy of OpenMolcas with an interface to Dice (Heat-bath CI), Block (DMRG), and CheMPS2 (DMRG) 
 * [KST48](https://github.com/RimoAccelerator/KST48)
 * [fast_sscf](https://github.com/hongzhouye/fast_sscf) A fast and scalable implementation of sigma-SCF 
 * [PyVibMS](https://github.com/smutao/PyVibMS)
@@ -13,15 +9,12 @@ Just a table of my stars. Famous repos excluded.
 * [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)
 * [pysisyphus](https://github.com/eljost/pysisyphus) for optimization of stationary points
 * [ZimmermanGroup/pyGSM](https://github.com/ZimmermanGroup/pyGSM) Thermal and photochemical reaction path optimization
+* [xopt](https://github.com/hokru/xopt)
 * [gimic](https://github.com/qmcurrents/gimic)
-* [Dice](https://github.com/sanshar/Dice)
 * [MCfun](https://github.com/Multi-collinear/MCfun) Multi-collinear functional 
 * [BGWpy](https://github.com/BerkeleyGW/BGWpy)
 * [BSE_k_ISDF.jl](https://github.com/fhenneke/BSE_k_ISDF.jl)
-* [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
 * [piecuch-group/cct3](https://github.com/piecuch-group/cct3)
-* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview)
-* [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET)
 * [pyscf-ecCC-TCC](https://github.com/seunghoonlee89/pyscf-ecCC-TCC)
 * [aquarius](https://github.com/devinamatthews/aquarius)
 * [shanghui/honpas](https://github.com/shanghui/honpas)
@@ -33,6 +26,20 @@ Just a table of my stars. Famous repos excluded.
 * [QuantumPackage/qp2](https://github.com/QuantumPackage/qp2)
 * [CCQC/Quax](https://github.com/CCQC/Quax) Arbitrary-order derivatives of popular electronic structure methods
 * [ValeevGroup/mpqc](https://github.com/ValeevGroup/mpqc)
+* [QuantumChemistry.jl](https://github.com/stefabat/QuantumChemistry.jl)
+* [fishjojo/pycosmosac](https://github.com/fishjojo/pycosmosac)
+
+## programs, MR
+* [hczhai/pyblock](https://github.com/hczhai/pyblock)
+* [block2-preview](https://github.com/block-hczhai/block2-preview)
+* [pyblock3-preview](https://github.com/block-hczhai/pyblock3-preview)
+* [quanp/OpenMolcas](https://github.com/quanp/OpenMolcas) A copy of OpenMolcas with an interface to Dice (Heat-bath CI), Block (DMRG), and CheMPS2 (DMRG) 
+* [Dice](https://github.com/sanshar/Dice)
+* [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
+* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview)
+* [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET)
+* [fishjojo/pydmfet](https://github.com/fishjojo/pydmfet)
+* [pDMET](https://github.com/hungpham2017/pDMET)
 
 ## programs, ML
 * [DeepMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
@@ -41,6 +48,8 @@ Just a table of my stars. Famous repos excluded.
 * [reaction-network](https://github.com/GENESIS-EFRC/reaction-network)
 * [schnetpack](https://github.com/atomistic-machine-learning/schnetpack)
 * [DeepDFT](https://github.com/peterbjorgensen/DeepDFT)
+* [SISSO](https://github.com/rouyang2017/SISSO)
+* [OpenChem](https://github.com/Mariewelt/OpenChem)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -51,6 +60,7 @@ Just a table of my stars. Famous repos excluded.
 * [rust-scf](https://github.com/stanpapa/rust-scf)
 * [CrawfordGroup/pycc](https://github.com/CrawfordGroup/pycc)
 * [pycdft](https://github.com/MICCoMpy/pycdft)
+* [awhite862/cqcpy](https://github.com/awhite862/cqcpy)
 
 ## numerical tools
 * [EinsumsInCpp](https://github.com/jturney/EinsumsInCpp)
@@ -62,6 +72,7 @@ Just a table of my stars. Famous repos excluded.
 * [jjgoings/davidson](https://github.com/jjgoings/davidson)
 * [ybyygu/rust-lbfgs](https://github.com/ybyygu/rust-lbfgs)
 * [pybind11_numpy](https://github.com/jamesETsmith/pybind11_numpy)
+* [SciAlgs.jl](https://github.com/zyth0s/SciAlgs.jl)
 
 ## second quant
 * [qop](https://github.com/refraction-ray/qop)
@@ -69,6 +80,7 @@ Just a table of my stars. Famous repos excluded.
 * [ValeevGroup/SeQuant](https://github.com/ValeevGroup/SeQuant)
 * [SecondQuantization.jl](https://github.com/stefabat/SecondQuantization.jl)
 * [awhite862/wick](https://github.com/awhite862/wick)
+* [msaitow/SecondQuantizationAlgebra](https://github.com/msaitow/SecondQuantizationAlgebra)
 
 ## toolchain/workflow
 * [grimme-lab/mctc-lib](https://github.com/grimme-lab/mctc-lib)
@@ -79,9 +91,10 @@ Just a table of my stars. Famous repos excluded.
 * [wannier90_utilities](https://github.com/cationly/wannier90_utilities)
 * [yambopy](https://github.com/henriquemiranda/yambopy)
 * [CECget/VASP_scripts](https://github.com/CECget/VASP_scripts), [Angel-Jia/VASP-script](https://github.com/Angel-Jia/VASP-script)
-* [qchem-parsers](https://github.com/abelcarreras/qchem-parsers)
+* [qchem-parsers](https://github.com/abelcarreras/qchem-parsers), [PyQchem](https://github.com/abelcarreras/PyQchem)
 * [orbkit](https://github.com/orbkit/orbkit)
 * [eronca/PYQCTools](https://github.com/eronca/PYQCTools)
+* [PySCF.jl](https://github.com/zyth0s/PySCF.jl), [psi4julia](https://github.com/zyth0s/psi4julia)
 * [brentp/bsub](https://github.com/brentp/bsub) python wrapper to submit jobs to bsub
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [jobage](https://github.com/c4rO-0/jobage)
