@@ -163,15 +163,4 @@ Just a table of my stars. Famous repos excluded.
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
 
-## TeX / Markdown
-* [gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
-* [mkdocs](https://github.com/mkdocs/mkdocs)
-* [CMC](https://github.com/shaodongtang/CMC)
-* [gaokao_exam](https://github.com/shaodongtang/gaokao_exam)
-* [NJUBeamer](https://github.com/nju-lug/NJUBeamer)
-* [doi2bib](https://github.com/schneiderfelipe/doi2bib)
-* [achemso](https://github.com/josephwright/achemso)
-* [latex-beamerposter](https://github.com/deselaers/latex-beamerposter)
-* [zotero-mdnotes](https://github.com/argenos/zotero-mdnotes)
-* [mdp](https://github.com/visit1985/mdp)  markdown presentation tool
-* [cicero](https://github.com/bast/cicero)
+
