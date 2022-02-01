@@ -25,6 +25,9 @@ Just a table of my stars. Famous repos excluded.
 * [aquarius](https://github.com/devinamatthews/aquarius)
 * [shanghui/honpas](https://github.com/shanghui/honpas)
 * [deepmodeling/abacus-develop](https://github.com/deepmodeling/abacus-develop)
+* [theodore-qc](https://github.com/felixplasser/theodore-qc)
+* [susilehtola/erkale](https://github.com/susilehtola/erkale)
+* [losc](https://github.com/Yang-Laboratory/losc)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -48,13 +51,16 @@ Just a table of my stars. Famous repos excluded.
 ## toolchain
 * [grimme-lab/mctc-lib](https://github.com/grimme-lab/mctc-lib)
 * [AaronTools.py](https://github.com/QChASM/AaronTools.py)
+* [JunboLu/CP2K_kit](https://github.com/JunboLu/CP2K_kit)
+* [QuantumESPRESSOBase.jl](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl)
+* [molpy](https://github.com/steabert/molpy)
 * [brentp/bsub](https://github.com/brentp/bsub) python wrapper to submit jobs to bsub
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [jobage](https://github.com/c4rO-0/jobage)
 
 ## benchmarks/databases
 * [pbcdft_pyscf_benchmarks](https://github.com/Jasonmyu/pbcdft_pyscf_benchmarks)
-* * [grimme-lab/mstore](https://github.com/grimme-lab/mstore)
+* [grimme-lab/mstore](https://github.com/grimme-lab/mstore)
 * [Collection_of_Frequency_Scale_Factors](https://github.com/liyuanhe211/Collection_of_Frequency_Scale_Factors)
 * [seunghoonlee89/Fe4S4_gen_CAS](https://github.com/seunghoonlee89/Fe4S4_gen_CAS)
 * [the-hampel/solid_input](https://github.com/the-hampel/solid_input)
@@ -62,6 +68,7 @@ Just a table of my stars. Famous repos excluded.
 ## guide
 * [mrauha/compchem_start](https://github.com/mrauha/compchem_start)
 * [quick-tutor-on-gpaw-gwbse](https://github.com/minyez/quick-tutor-on-gpaw-gwbse)
+* [siesta-project/tutorials](https://github.com/siesta-project/tutorials)
 
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
