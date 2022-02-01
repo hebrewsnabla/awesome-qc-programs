@@ -4,6 +4,7 @@ Just a table of my stars. Famous repos excluded.
 ## programs
 * [hczhai/pyblock](https://github.com/hczhai/pyblock)
 * [block2-preview](https://github.com/block-hczhai/block2-preview)
+* [pyblock3-preview](https://github.com/block-hczhai/pyblock3-preview)
 * [quanp/OpenMolcas](https://github.com/quanp/OpenMolcas) A copy of OpenMolcas with an interface to Dice (Heat-bath CI), Block (DMRG), and CheMPS2 (DMRG) 
 * [KST48](https://github.com/RimoAccelerator/KST48)
 * [fast_sscf](https://github.com/hongzhouye/fast_sscf) A fast and scalable implementation of sigma-SCF 
@@ -17,6 +18,13 @@ Just a table of my stars. Famous repos excluded.
 * [BGWpy](https://github.com/BerkeleyGW/BGWpy)
 * [BSE_k_ISDF.jl](https://github.com/fhenneke/BSE_k_ISDF.jl)
 * [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
+* [piecuch-group/cct3](https://github.com/piecuch-group/cct3)
+* [naqs-for-quantum-chemistry](https://github.com/tomdbar/naqs-for-quantum-chemistry)
+* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview)
+* [pyscf-ecCC-TCC](https://github.com/seunghoonlee89/pyscf-ecCC-TCC)
+* [aquarius](https://github.com/devinamatthews/aquarius)
+* [shanghui/honpas](https://github.com/shanghui/honpas)
+* [deepmodeling/abacus-develop](https://github.com/deepmodeling/abacus-develop)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -46,10 +54,14 @@ Just a table of my stars. Famous repos excluded.
 
 ## benchmarks/databases
 * [pbcdft_pyscf_benchmarks](https://github.com/Jasonmyu/pbcdft_pyscf_benchmarks)
+* * [grimme-lab/mstore](https://github.com/grimme-lab/mstore)
 * [Collection_of_Frequency_Scale_Factors](https://github.com/liyuanhe211/Collection_of_Frequency_Scale_Factors)
+* [seunghoonlee89/Fe4S4_gen_CAS](https://github.com/seunghoonlee89/Fe4S4_gen_CAS)
+* [the-hampel/solid_input](https://github.com/the-hampel/solid_input)
 
 ## guide
 * [mrauha/compchem_start](https://github.com/mrauha/compchem_start)
+* [quick-tutor-on-gpaw-gwbse](https://github.com/minyez/quick-tutor-on-gpaw-gwbse)
 
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
