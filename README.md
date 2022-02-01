@@ -57,3 +57,4 @@ Just a table of my stars. Famous repos excluded.
 * [gaokao_exam](https://github.com/shaodongtang/gaokao_exam)
 * [NJUBeamer](https://github.com/nju-lug/NJUBeamer)
 * [doi2bib](https://github.com/schneiderfelipe/doi2bib)
+* [achemso](https://github.com/josephwright/achemso)
