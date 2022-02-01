@@ -12,6 +12,7 @@ Just a table of my stars. Famous repos excluded.
 * [MOPAC](https://github.com/openmopac/MOPAC)
 * [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)
 * [pysisyphus](https://github.com/eljost/pysisyphus) for optimization of stationary points
+* [ZimmermanGroup/pyGSM](https://github.com/ZimmermanGroup/pyGSM) Thermal and photochemical reaction path optimization
 * [gimic](https://github.com/qmcurrents/gimic)
 * [Dice](https://github.com/sanshar/Dice)
 * [MCfun](https://github.com/Multi-collinear/MCfun) Multi-collinear functional 
@@ -29,12 +30,17 @@ Just a table of my stars. Famous repos excluded.
 * [susilehtola/erkale](https://github.com/susilehtola/erkale)
 * [losc](https://github.com/Yang-Laboratory/losc)
 * [electronic-structure/SIRIUS](https://github.com/electronic-structure/SIRIUS)
+* [QuantumPackage/qp2](https://github.com/QuantumPackage/qp2)
+* [CCQC/Quax](https://github.com/CCQC/Quax) Arbitrary-order derivatives of popular electronic structure methods
+* [ValeevGroup/mpqc](https://github.com/ValeevGroup/mpqc)
 
 ## programs, ML
 * [DeepMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
 * [naqs-for-quantum-chemistry](https://github.com/tomdbar/naqs-for-quantum-chemistry)
 * [diffqc/dqc](https://github.com/diffqc/dqc)
 * [reaction-network](https://github.com/GENESIS-EFRC/reaction-network)
+* [schnetpack](https://github.com/atomistic-machine-learning/schnetpack)
+* [DeepDFT](https://github.com/peterbjorgensen/DeepDFT)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -57,6 +63,13 @@ Just a table of my stars. Famous repos excluded.
 * [ybyygu/rust-lbfgs](https://github.com/ybyygu/rust-lbfgs)
 * [pybind11_numpy](https://github.com/jamesETsmith/pybind11_numpy)
 
+## second quant
+* [qop](https://github.com/refraction-ray/qop)
+* [aalopes/secondQuant](https://github.com/aalopes/secondQuant)
+* [ValeevGroup/SeQuant](https://github.com/ValeevGroup/SeQuant)
+* [SecondQuantization.jl](https://github.com/stefabat/SecondQuantization.jl)
+* [awhite862/wick](https://github.com/awhite862/wick)
+
 ## toolchain/workflow
 * [grimme-lab/mctc-lib](https://github.com/grimme-lab/mctc-lib)
 * [AaronTools.py](https://github.com/QChASM/AaronTools.py)
@@ -65,7 +78,10 @@ Just a table of my stars. Famous repos excluded.
 * [molpy](https://github.com/steabert/molpy)
 * [wannier90_utilities](https://github.com/cationly/wannier90_utilities)
 * [yambopy](https://github.com/henriquemiranda/yambopy)
+* [CECget/VASP_scripts](https://github.com/CECget/VASP_scripts), [Angel-Jia/VASP-script](https://github.com/Angel-Jia/VASP-script)
 * [qchem-parsers](https://github.com/abelcarreras/qchem-parsers)
+* [orbkit](https://github.com/orbkit/orbkit)
+* [eronca/PYQCTools](https://github.com/eronca/PYQCTools)
 * [brentp/bsub](https://github.com/brentp/bsub) python wrapper to submit jobs to bsub
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [jobage](https://github.com/c4rO-0/jobage)
@@ -83,6 +99,7 @@ Just a table of my stars. Famous repos excluded.
 * [mrauha/compchem_start](https://github.com/mrauha/compchem_start)
 * [quick-tutor-on-gpaw-gwbse](https://github.com/minyez/quick-tutor-on-gpaw-gwbse)
 * [siesta-project/tutorials](https://github.com/siesta-project/tutorials)
+* [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
 
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
@@ -97,3 +114,4 @@ Just a table of my stars. Famous repos excluded.
 * [achemso](https://github.com/josephwright/achemso)
 * [latex-beamerposter](https://github.com/deselaers/latex-beamerposter)
 * [zotero-mdnotes](https://github.com/argenos/zotero-mdnotes)
+* [mdp](https://github.com/visit1985/mdp)  markdown presentation tool
