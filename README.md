@@ -15,6 +15,8 @@ Just a table of my stars. Famous repos excluded.
 * [Dice](https://github.com/sanshar/Dice)
 * [MCfun](https://github.com/Multi-collinear/MCfun) Multi-collinear functional 
 * [BGWpy](https://github.com/BerkeleyGW/BGWpy)
+* [BSE_k_ISDF.jl](https://github.com/fhenneke/BSE_k_ISDF.jl)
+* [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -33,9 +35,11 @@ Just a table of my stars. Famous repos excluded.
 * [HDF5_utils](https://github.com/jterwin/HDF5_utils)
 * [jjgoings/davidson](https://github.com/jjgoings/davidson)
 * [ybyygu/rust-lbfgs](https://github.com/ybyygu/rust-lbfgs)
+* [pybind11_numpy](https://github.com/jamesETsmith/pybind11_numpy)
 
 ## toolchain
 * [grimme-lab/mctc-lib](https://github.com/grimme-lab/mctc-lib)
+* [AaronTools.py](https://github.com/QChASM/AaronTools.py)
 * [brentp/bsub](https://github.com/brentp/bsub) python wrapper to submit jobs to bsub
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [jobage](https://github.com/c4rO-0/jobage)
@@ -58,3 +62,5 @@ Just a table of my stars. Famous repos excluded.
 * [NJUBeamer](https://github.com/nju-lug/NJUBeamer)
 * [doi2bib](https://github.com/schneiderfelipe/doi2bib)
 * [achemso](https://github.com/josephwright/achemso)
+* [latex-beamerposter](https://github.com/deselaers/latex-beamerposter)
+* [zotero-mdnotes](https://github.com/argenos/zotero-mdnotes)
