@@ -19,8 +19,8 @@ Just a table of my stars. Famous repos excluded.
 * [BSE_k_ISDF.jl](https://github.com/fhenneke/BSE_k_ISDF.jl)
 * [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
 * [piecuch-group/cct3](https://github.com/piecuch-group/cct3)
-* [naqs-for-quantum-chemistry](https://github.com/tomdbar/naqs-for-quantum-chemistry)
 * [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview)
+* [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET)
 * [pyscf-ecCC-TCC](https://github.com/seunghoonlee89/pyscf-ecCC-TCC)
 * [aquarius](https://github.com/devinamatthews/aquarius)
 * [shanghui/honpas](https://github.com/shanghui/honpas)
@@ -28,6 +28,13 @@ Just a table of my stars. Famous repos excluded.
 * [theodore-qc](https://github.com/felixplasser/theodore-qc)
 * [susilehtola/erkale](https://github.com/susilehtola/erkale)
 * [losc](https://github.com/Yang-Laboratory/losc)
+* [electronic-structure/SIRIUS](https://github.com/electronic-structure/SIRIUS)
+
+## programs, ML
+* [DeepMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
+* [naqs-for-quantum-chemistry](https://github.com/tomdbar/naqs-for-quantum-chemistry)
+* [diffqc/dqc](https://github.com/diffqc/dqc)
+* [reaction-network](https://github.com/GENESIS-EFRC/reaction-network)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -36,6 +43,8 @@ Just a table of my stars. Famous repos excluded.
 * [pyscf/naive-hci](https://github.com/pyscf/naive-hci)
 * [rchem](https://github.com/berquist/rchem) quantum chemistry in Rust
 * [rust-scf](https://github.com/stanpapa/rust-scf)
+* [CrawfordGroup/pycc](https://github.com/CrawfordGroup/pycc)
+* [pycdft](https://github.com/MICCoMpy/pycdft)
 
 ## numerical tools
 * [EinsumsInCpp](https://github.com/jturney/EinsumsInCpp)
@@ -48,12 +57,15 @@ Just a table of my stars. Famous repos excluded.
 * [ybyygu/rust-lbfgs](https://github.com/ybyygu/rust-lbfgs)
 * [pybind11_numpy](https://github.com/jamesETsmith/pybind11_numpy)
 
-## toolchain
+## toolchain/workflow
 * [grimme-lab/mctc-lib](https://github.com/grimme-lab/mctc-lib)
 * [AaronTools.py](https://github.com/QChASM/AaronTools.py)
 * [JunboLu/CP2K_kit](https://github.com/JunboLu/CP2K_kit)
 * [QuantumESPRESSOBase.jl](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl)
 * [molpy](https://github.com/steabert/molpy)
+* [wannier90_utilities](https://github.com/cationly/wannier90_utilities)
+* [yambopy](https://github.com/henriquemiranda/yambopy)
+* [qchem-parsers](https://github.com/abelcarreras/qchem-parsers)
 * [brentp/bsub](https://github.com/brentp/bsub) python wrapper to submit jobs to bsub
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [jobage](https://github.com/c4rO-0/jobage)
@@ -64,6 +76,8 @@ Just a table of my stars. Famous repos excluded.
 * [Collection_of_Frequency_Scale_Factors](https://github.com/liyuanhe211/Collection_of_Frequency_Scale_Factors)
 * [seunghoonlee89/Fe4S4_gen_CAS](https://github.com/seunghoonlee89/Fe4S4_gen_CAS)
 * [the-hampel/solid_input](https://github.com/the-hampel/solid_input)
+* [bench_density_gradient_wfn](https://github.com/zyth0s/bench_density_gradient_wfn)
+* [Active-space-model-for-PClusters](https://github.com/zhendongli2008/Active-space-model-for-PClusters), [for-Iron-Sulfur-Clusters](https://github.com/zhendongli2008/Active-space-model-for-Iron-Sulfur-Clusters)
 
 ## guide
 * [mrauha/compchem_start](https://github.com/mrauha/compchem_start)
