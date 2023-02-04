@@ -17,7 +17,7 @@ Just a table of my stars. Famous repos excluded.
 * [CCQC/Quax](https://github.com/CCQC/Quax) Arbitrary-order derivatives of popular electronic structure methods
 * [ValeevGroup/mpqc](https://github.com/ValeevGroup/mpqc)
 * [QuantumChemistry.jl](https://github.com/stefabat/QuantumChemistry.jl), [JuliaChem.jl](https://github.com/davpoolechem/JuliaChem.jl), [Fermi.jl](https://github.com/FermiQC/Fermi.jl), [Quiqbox.jl](https://github.com/frankwswang/Quiqbox.jl)
-* [fishjojo/pycosmosac](https://github.com/fishjojo/pycosmosac), [COSMOSAC](https://github.com/usnistgov/COSMOSAC)
+* [fishjojo/pycosmosac](https://github.com/fishjojo/pycosmosac), [COSMOSAC](https://github.com/usnistgov/COSMOSAC), [openCOSMO-RS_py](https://github.com/TUHH-TVT/openCOSMO-RS_py)
 * [NEO-DFT](https://github.com/SHS-GROUP/NEO-DFT)
 * [ddPCM](https://github.com/filippolipparini/ddPCM), [pcmsolver](https://github.com/PCMSolver/pcmsolver)
 * [GQCP](https://github.com/GQCG/GQCP)
@@ -28,6 +28,7 @@ Just a table of my stars. Famous repos excluded.
 * [molsturm](https://github.com/molsturm/molsturm)
 * [cppe](https://github.com/maxscheurer/cppe)
 * [ce-tddft](https://github.com/dceresoli/ce-tddft), [RealtimePySCF](https://github.com/jparkhill/RealtimePySCF), [RT-tddft](https://github.com/sheyua/RT-tddft), [rt_electronic_structure](https://github.com/DYehorova/rt_electronic_structure)
+* [cc-ats/qed-tddft](https://github.com/cc-ats/qed-tddft)
 * [ITDDFT_for_QE](https://github.com/Walkerqmc/ITDDFT_for_QE)
 * [molgw](https://github.com/bruneval/molgw), [zhutianyu1991/GW](https://github.com/zhutianyu1991/GW), [PyGW](https://github.com/ru-ccmt/PyGW)
 * [QUICK](https://github.com/merzlab/QUICK)
@@ -41,6 +42,9 @@ Just a table of my stars. Famous repos excluded.
 * [Multi-FED-FCD](https://github.com/DominikLindorfer/Multi-FED-FCD)
 * [QuAcK](https://github.com/pfloos/QuAcK)
 * [sail-sg/jax_xc](https://github.com/sail-sg/jax_xc)
+* [openrsp](https://github.com/openrsp/openrsp)
+* [Warlocat/x2camf](https://github.com/Warlocat/x2camf)
+* [januseriksen/decodense](https://github.com/januseriksen/decodense)
 
 ## programs, solid
 * [shanghui/honpas](https://github.com/shanghui/honpas)
@@ -48,6 +52,7 @@ Just a table of my stars. Famous repos excluded.
 * [abinit](https://github.com/abinit/abinit)
 * [PWDFT.jl](https://github.com/f-fathurrahman/PWDFT.jl)
 * [wangenau/eminus](https://github.com/wangenau/eminus)
+* [ZhaoYilin/moha](https://github.com/ZhaoYilin/moha)
 
 ## programs, opt/freq
 * [KST48](https://github.com/RimoAccelerator/KST48)
@@ -70,6 +75,8 @@ Just a table of my stars. Famous repos excluded.
 * [graci](https://github.com/schuurman-group/graci)
 * [hczhai/fci-siso](https://github.com/hczhai/fci-siso)
 * [BoothGroup/Vayesta](https://github.com/BoothGroup/Vayesta)
+* [ankit76/fp_afqmc](https://github.com/ankit76/fp_afqmc), [pauxy-qmc/pauxy](https://github.com/pauxy-qmc/pauxy), [qmcpack](https://github.com/QMCPACK/qmcpack), [WagnerGroup/pyqmc](https://github.com/WagnerGroup/pyqmc), [deepqmc](https://github.com/deepqmc/deepqmc)
+* [hczhai/CSF](https://github.com/hczhai/CSF)
 
 ## programs, ML
 * [DeepMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
@@ -105,6 +112,7 @@ Just a table of my stars. Famous repos excluded.
 * [tinydft](https://github.com/theochem/tinydft)
 * [gkclab/pickle](https://github.com/gkclab/pickle)
 * [kthpanor/echem](https://github.com/kthpanor/echem)
+* [sunqm/pbchf](https://github.com/sunqm/pbchf)
 
 ## numerical tools
 * [EinsumsInCpp](https://github.com/jturney/EinsumsInCpp), [opt_einsum](https://github.com/dgasmith/opt_einsum)
@@ -131,6 +139,7 @@ Just a table of my stars. Famous repos excluded.
 * [SecondQuantization.jl](https://github.com/stefabat/SecondQuantization.jl)
 * [awhite862/wick](https://github.com/awhite862/wick)
 * [msaitow/SecondQuantizationAlgebra](https://github.com/msaitow/SecondQuantizationAlgebra)
+* [fevangelista/wicked](https://github.com/fevangelista/wicked)
 
 ## toolchain/workflow
 * [grimme-lab/mctc-lib](https://github.com/grimme-lab/mctc-lib)
@@ -175,6 +184,7 @@ Just a table of my stars. Famous repos excluded.
 * [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
 * [liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry](https://github.com/liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry)
 * [dralgroup/MLinQCbook22](https://github.com/dralgroup/MLinQCbook22)
+* [Tutorials_QE_and_eQE](https://github.com/compchem-cybertraining/Tutorials_QE_and_eQE)
 
 ## visual
 * [vmd_cube](https://github.com/fevangelista/vmd_cube)
@@ -183,6 +193,8 @@ Just a table of my stars. Famous repos excluded.
 * [moleview](https://github.com/moleview/moleview)
 * [mayavi](https://github.com/enthought/mayavi)
 * [py3dmol](https://github.com/avirshup/py3dmol)
+* [3Dmol.js](https://github.com/3dmol/3Dmol.js)
+* [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
 
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
