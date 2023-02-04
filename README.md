@@ -2,23 +2,13 @@
 Just a table of my stars. Famous repos excluded.
 
 ## programs
-* [KST48](https://github.com/RimoAccelerator/KST48)
 * [fast_sscf](https://github.com/hongzhouye/fast_sscf) A fast and scalable implementation of sigma-SCF 
-* [PyVibMS](https://github.com/smutao/PyVibMS), [UniMoVib](https://github.com/zorkzou/UniMoVib)
-* [MOPAC](https://github.com/openmopac/MOPAC)
 * [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)
-* [pysisyphus](https://github.com/eljost/pysisyphus) for optimization of stationary points
-* [ZimmermanGroup/pyGSM](https://github.com/ZimmermanGroup/pyGSM) Thermal and photochemical reaction path optimization
-* [xopt](https://github.com/hokru/xopt)
 * [gimic](https://github.com/qmcurrents/gimic)
-* [MCfun](https://github.com/Multi-collinear/MCfun) Multi-collinear functional 
 * [BSE_k_ISDF.jl](https://github.com/fhenneke/BSE_k_ISDF.jl)
 * [piecuch-group/cct3](https://github.com/piecuch-group/cct3)
 * [pyscf-ecCC-TCC](https://github.com/seunghoonlee89/pyscf-ecCC-TCC)
 * [aquarius](https://github.com/devinamatthews/aquarius)
-* [shanghui/honpas](https://github.com/shanghui/honpas)
-* [deepmodeling/abacus-develop](https://github.com/deepmodeling/abacus-develop)
-* [abinit](https://github.com/abinit/abinit)
 * [theodore-qc](https://github.com/felixplasser/theodore-qc)
 * [susilehtola/erkale](https://github.com/susilehtola/erkale)
 * [losc](https://github.com/Yang-Laboratory/losc)
@@ -37,7 +27,7 @@ Just a table of my stars. Famous repos excluded.
 * [exciting](https://github.com/exciting/exciting)
 * [molsturm](https://github.com/molsturm/molsturm)
 * [cppe](https://github.com/maxscheurer/cppe)
-* [ce-tddft](https://github.com/dceresoli/ce-tddft), [RealtimePySCF](https://github.com/jparkhill/RealtimePySCF), [RT-tddft](https://github.com/sheyua/RT-tddft)
+* [ce-tddft](https://github.com/dceresoli/ce-tddft), [RealtimePySCF](https://github.com/jparkhill/RealtimePySCF), [RT-tddft](https://github.com/sheyua/RT-tddft), [rt_electronic_structure](https://github.com/DYehorova/rt_electronic_structure)
 * [ITDDFT_for_QE](https://github.com/Walkerqmc/ITDDFT_for_QE)
 * [molgw](https://github.com/bruneval/molgw), [zhutianyu1991/GW](https://github.com/zhutianyu1991/GW), [PyGW](https://github.com/ru-ccmt/PyGW)
 * [QUICK](https://github.com/merzlab/QUICK)
@@ -47,20 +37,37 @@ Just a table of my stars. Famous repos excluded.
 * [DiffiQult](https://github.com/aspuru-guzik-group/DiffiQult)
 * [HelFEM](https://github.com/susilehtola/HelFEM), [mrchem](https://github.com/MRChemSoft/mrchem)
 * [HamiltonianPy](https://github.com/waltergu/HamiltonianPy)
+* [qcserenity/serenity](https://github.com/qcserenity/serenity)
+* [Multi-FED-FCD](https://github.com/DominikLindorfer/Multi-FED-FCD)
+* [QuAcK](https://github.com/pfloos/QuAcK)
+* [sail-sg/jax_xc](https://github.com/sail-sg/jax_xc)
+
+## programs, solid
+* [shanghui/honpas](https://github.com/shanghui/honpas)
+* [deepmodeling/abacus-develop](https://github.com/deepmodeling/abacus-develop)
+* [abinit](https://github.com/abinit/abinit)
+* [PWDFT.jl](https://github.com/f-fathurrahman/PWDFT.jl)
+* [wangenau/eminus](https://github.com/wangenau/eminus)
+
+## programs, opt/freq
+* [KST48](https://github.com/RimoAccelerator/KST48)
+* [PyVibMS](https://github.com/smutao/PyVibMS), [UniMoVib](https://github.com/zorkzou/UniMoVib)
+* [pysisyphus](https://github.com/eljost/pysisyphus) for optimization of stationary points
+* [ZimmermanGroup/pyGSM](https://github.com/ZimmermanGroup/pyGSM) Thermal and photochemical reaction path optimization
+* [xopt](https://github.com/hokru/xopt)
 
 ## programs, MR
-* [hczhai/pyblock](https://github.com/hczhai/pyblock)
-* [block2-preview](https://github.com/block-hczhai/block2-preview)
-* [pyblock3-preview](https://github.com/block-hczhai/pyblock3-preview)
+* [hczhai/pyblock](https://github.com/hczhai/pyblock), [block2-preview](https://github.com/block-hczhai/block2-preview), [pyblock3-preview](https://github.com/block-hczhai/pyblock3-preview)
 * [quanp/OpenMolcas](https://github.com/quanp/OpenMolcas) A copy of OpenMolcas with an interface to Dice (Heat-bath CI), Block (DMRG), and CheMPS2 (DMRG) 
-* [Dice](https://github.com/sanshar/Dice)
+* [Dice](https://github.com/sanshar/Dice), [xubwa/RelHCI](https://github.com/xubwa/RelHCI)
 * [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
-* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview)
-* [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET)
-* [fishjojo/pydmfet](https://github.com/fishjojo/pydmfet)
-* [pDMET](https://github.com/hungpham2017/pDMET)
+* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview), [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET), [fishjojo/pydmfet](https://github.com/fishjojo/pydmfet), [pDMET](https://github.com/hungpham2017/pDMET), [MoleOrbitalHybridAnalyst/DMET-preview](https://github.com/MoleOrbitalHybridAnalyst/DMET-preview)
+* [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT)
 * [evangelistalab/forte](https://github.com/evangelistalab/forte)
 * [CDFCI](https://github.com/quan-tum/CDFCI)
+* [SinaMostafanejad/OpenRDM](https://github.com/SinaMostafanejad/OpenRDM), [edeprince3/v2rdm_casscf](https://github.com/edeprince3/v2rdm_casscf)
+* [mcci](https://github.com/MCCI/mcci)
+* [graci](https://github.com/schuurman-group/graci)
 
 ## programs, ML
 * [DeepMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
@@ -74,6 +81,7 @@ Just a table of my stars. Famous repos excluded.
 * [CrawfordGroup/MLQM](https://github.com/CrawfordGroup/MLQM)
 * [mol-cycle-gan](https://github.com/ardigen/mol-cycle-gan)
 * [deepchem](https://github.com/deepchem/deepchem)
+* [pcNN_mol](https://github.com/ml-electron-project/pcNN_mol)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -82,7 +90,7 @@ Just a table of my stars. Famous repos excluded.
 * [pyscf/naive-hci](https://github.com/pyscf/naive-hci)
 * [rchem](https://github.com/berquist/rchem) quantum chemistry in Rust
 * [rust-scf](https://github.com/stanpapa/rust-scf)
-* [CrawfordGroup/pycc](https://github.com/CrawfordGroup/pycc)
+* [CrawfordGroup/pycc](https://github.com/CrawfordGroup/pycc), [yangdatou/coupled-cluster-equations](https://github.com/yangdatou/coupled-cluster-equations)
 * [pycdft](https://github.com/MICCoMpy/pycdft)
 * [awhite862/cqcpy](https://github.com/awhite862/cqcpy)
 * [lightspeed](https://github.com/robparrish/lightspeed)
@@ -93,6 +101,7 @@ Just a table of my stars. Famous repos excluded.
 * [ImplementingDFT](https://github.com/f-fathurrahman/ImplementingDFT)
 * [tinydft](https://github.com/theochem/tinydft)
 * [gkclab/pickle](https://github.com/gkclab/pickle)
+* [kthpanor/echem](https://github.com/kthpanor/echem)
 
 ## numerical tools
 * [EinsumsInCpp](https://github.com/jturney/EinsumsInCpp), [opt_einsum](https://github.com/dgasmith/opt_einsum)
@@ -110,6 +119,7 @@ Just a table of my stars. Famous repos excluded.
 * [pybind11_numpy](https://github.com/jamesETsmith/pybind11_numpy)
 * [SciAlgs.jl](https://github.com/zyth0s/SciAlgs.jl)
 * [LBFGSpp](https://github.com/yixuan/LBFGSpp)
+* [variational_mesh](https://github.com/wangenau/variational_mesh)
 
 ## second quant
 * [qop](https://github.com/refraction-ray/qop)
@@ -137,8 +147,6 @@ Just a table of my stars. Famous repos excluded.
 * [orbkit](https://github.com/orbkit/orbkit)
 * [eronca/PYQCTools](https://github.com/eronca/PYQCTools)
 * [PySCF.jl](https://github.com/zyth0s/PySCF.jl), [psi4julia](https://github.com/zyth0s/psi4julia)
-* [vmd_cube](https://github.com/fevangelista/vmd_cube)
-* [vmd-python](https://github.com/Eigenstate/vmd-python)
 * [brentp/bsub](https://github.com/brentp/bsub) python wrapper to submit jobs to bsub
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [GauEXTDFTD4](https://github.com/snljty/GauEXTDFTD4)
@@ -153,12 +161,20 @@ Just a table of my stars. Famous repos excluded.
 * [the-hampel/solid_input](https://github.com/the-hampel/solid_input)
 * [bench_density_gradient_wfn](https://github.com/zyth0s/bench_density_gradient_wfn)
 * [Active-space-model-for-PClusters](https://github.com/zhendongli2008/Active-space-model-for-PClusters), [for-Iron-Sulfur-Clusters](https://github.com/zhendongli2008/Active-space-model-for-Iron-Sulfur-Clusters)
+* [HPQC-LABS/AI_ENERGIES](https://github.com/HPQC-LABS/AI_ENERGIES)
 
 ## guide
 * [mrauha/compchem_start](https://github.com/mrauha/compchem_start)
 * [quick-tutor-on-gpaw-gwbse](https://github.com/minyez/quick-tutor-on-gpaw-gwbse)
 * [siesta-project/tutorials](https://github.com/siesta-project/tutorials)
 * [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
+* [liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry](https://github.com/liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry)
+
+## visual
+* [vmd_cube](https://github.com/fevangelista/vmd_cube)
+* [vmd-python](https://github.com/Eigenstate/vmd-python)
+* [ferricyanide](https://github.com/frodofine/ferricyanide) in Rust
+* [moleview](https://github.com/moleview/moleview)
 
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
