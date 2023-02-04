@@ -16,7 +16,7 @@ Just a table of my stars. Famous repos excluded.
 * [QuantumPackage/qp2](https://github.com/QuantumPackage/qp2)
 * [CCQC/Quax](https://github.com/CCQC/Quax) Arbitrary-order derivatives of popular electronic structure methods
 * [ValeevGroup/mpqc](https://github.com/ValeevGroup/mpqc)
-* [QuantumChemistry.jl](https://github.com/stefabat/QuantumChemistry.jl), [JuliaChem.jl](https://github.com/davpoolechem/JuliaChem.jl), [Fermi.jl](https://github.com/FermiQC/Fermi.jl)
+* [QuantumChemistry.jl](https://github.com/stefabat/QuantumChemistry.jl), [JuliaChem.jl](https://github.com/davpoolechem/JuliaChem.jl), [Fermi.jl](https://github.com/FermiQC/Fermi.jl), [Quiqbox.jl](https://github.com/frankwswang/Quiqbox.jl)
 * [fishjojo/pycosmosac](https://github.com/fishjojo/pycosmosac), [COSMOSAC](https://github.com/usnistgov/COSMOSAC)
 * [NEO-DFT](https://github.com/SHS-GROUP/NEO-DFT)
 * [ddPCM](https://github.com/filippolipparini/ddPCM), [pcmsolver](https://github.com/PCMSolver/pcmsolver)
@@ -61,13 +61,15 @@ Just a table of my stars. Famous repos excluded.
 * [quanp/OpenMolcas](https://github.com/quanp/OpenMolcas) A copy of OpenMolcas with an interface to Dice (Heat-bath CI), Block (DMRG), and CheMPS2 (DMRG) 
 * [Dice](https://github.com/sanshar/Dice), [xubwa/RelHCI](https://github.com/xubwa/RelHCI)
 * [shuaigroup/Renormalizer](https://github.com/shuaigroup/Renormalizer)
-* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview), [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET), [fishjojo/pydmfet](https://github.com/fishjojo/pydmfet), [pDMET](https://github.com/hungpham2017/pDMET), [MoleOrbitalHybridAnalyst/DMET-preview](https://github.com/MoleOrbitalHybridAnalyst/DMET-preview)
-* [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT)
+* [gkclab/libdmet_preview](https://github.com/gkclab/libdmet_preview), [SebWouters/QC-DMET](https://github.com/SebWouters/QC-DMET), [fishjojo/pydmfet](https://github.com/fishjojo/pydmfet), [pDMET](https://github.com/hungpham2017/pDMET), [MoleOrbitalHybridAnalyst/DMET-preview](https://github.com/MoleOrbitalHybridAnalyst/DMET-preview), [yangdatou/pydmet](https://github.com/yangdatou/pydmet)
+* [DMFTwDFT](https://github.com/DMFTwDFT-project/DMFTwDFT), [ZhuGroup-Yale/fcdmft](https://github.com/ZhuGroup-Yale/fcdmft)
 * [evangelistalab/forte](https://github.com/evangelistalab/forte)
 * [CDFCI](https://github.com/quan-tum/CDFCI)
 * [SinaMostafanejad/OpenRDM](https://github.com/SinaMostafanejad/OpenRDM), [edeprince3/v2rdm_casscf](https://github.com/edeprince3/v2rdm_casscf)
 * [mcci](https://github.com/MCCI/mcci)
 * [graci](https://github.com/schuurman-group/graci)
+* [hczhai/fci-siso](https://github.com/hczhai/fci-siso)
+* [BoothGroup/Vayesta](https://github.com/BoothGroup/Vayesta)
 
 ## programs, ML
 * [DeepMoleNet](https://github.com/Frank-LIU-520/DeepMoleNet)
@@ -82,6 +84,7 @@ Just a table of my stars. Famous repos excluded.
 * [mol-cycle-gan](https://github.com/ardigen/mol-cycle-gan)
 * [deepchem](https://github.com/deepchem/deepchem)
 * [pcNN_mol](https://github.com/ml-electron-project/pcNN_mol)
+* [deepmind/ferminet](https://github.com/deepmind/ferminet)
 
 ## demo/toy proj
 * [kspy-tddft](https://github.com/pwborthwick/kspy-tddft)
@@ -151,6 +154,8 @@ Just a table of my stars. Famous repos excluded.
 * [orca-oniom-accelerator](https://github.com/Hare80/orca-oniom-accelerator)
 * [GauEXTDFTD4](https://github.com/snljty/GauEXTDFTD4)
 * [jobage](https://github.com/c4rO-0/jobage)
+* [qcscine/autocas](https://github.com/qcscine/autocas)
+* [romankempt/aimstools](https://github.com/romankempt/aimstools)
 
 ## benchmarks/databases
 * [pbcdft_pyscf_benchmarks](https://github.com/Jasonmyu/pbcdft_pyscf_benchmarks)
@@ -169,12 +174,15 @@ Just a table of my stars. Famous repos excluded.
 * [siesta-project/tutorials](https://github.com/siesta-project/tutorials)
 * [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
 * [liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry](https://github.com/liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry)
+* [dralgroup/MLinQCbook22](https://github.com/dralgroup/MLinQCbook22)
 
 ## visual
 * [vmd_cube](https://github.com/fevangelista/vmd_cube)
 * [vmd-python](https://github.com/Eigenstate/vmd-python)
 * [ferricyanide](https://github.com/frodofine/ferricyanide) in Rust
 * [moleview](https://github.com/moleview/moleview)
+* [mayavi](https://github.com/enthought/mayavi)
+* [py3dmol](https://github.com/avirshup/py3dmol)
 
 ## fun
 * [asciiMol](https://github.com/dewberryants/asciiMol)
